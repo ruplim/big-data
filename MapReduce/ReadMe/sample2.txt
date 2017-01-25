@@ -1,0 +1,3 @@
+Simple code to count the occurence of names in the txt file.
+
+Also using 2 partioners/reducers and combiner class (same as Reducer class)

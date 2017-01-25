@@ -1,0 +1,1 @@
+Simple code to count the occurence of names in the txt file.
