@@ -1,0 +1,17 @@
+
+Sample 1
+==============
+Simple code to count the occurence of names in the txt file.
+
+Sample 2
+=============
+Simple code to count the occurence of names in the txt file.
+Also using 2 partioners/reducers and combiner class (same as Reducer class)
+
+
+Sample 3
+=============
+Census data from : https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.data
+
+Tuple created ( NumPair) to use Combiner to calculate average.
+
