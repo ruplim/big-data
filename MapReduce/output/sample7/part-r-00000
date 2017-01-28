@@ -1,0 +1,9 @@
+Map | Map.txt
+Reduce | Reduce.txt
+com.samples.sample1; | Reduce.txt | Map.txt
+import | Map.txt | Map.txt | Map.txt | Map.txt | Reduce.txt | Reduce.txt | Reduce.txt | Reduce.txt
+org.apache.hadoop.io.IntWritable; | Reduce.txt | Map.txt
+org.apache.hadoop.io.LongWritable; | Map.txt | Reduce.txt
+org.apache.hadoop.io.Text; | Reduce.txt | Map.txt
+org.apache.hadoop.mapreduce.Mapper; | Map.txt | Reduce.txt
+package | Reduce.txt | Map.txt

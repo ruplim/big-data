@@ -15,3 +15,21 @@ Census data from : https://archive.ics.uci.edu/ml/machine-learning-databases/adu
 
 Tuple created ( NumPair) to use Combiner to calculate average.
 
+Sample 4
+=========
+
+Filter data based on a condition. Use of NullWritable
+
+Sample 5
+=========
+Find distinct vales.
+
+Sample 6
+===========
+
+Find TopN records
+
+Sample 7
+==========
+
+Inverted Index sample
